@@ -1,0 +1,8 @@
+class Solution {
+public:
+    int mySqrt(int x) {
+        int s= pow(x,0.5);
+        
+        return s;
+    }
+};
